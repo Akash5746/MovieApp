@@ -1,0 +1,1 @@
+the file within the app folder represent the routes 
